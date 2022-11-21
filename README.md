@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ecapellan
-- 👀 I’m interested in Functional programming and Big Data
+- 👀 I’m interested in Functional Programming and Big Data
 - 🌱 I’m currently learning Scala & Python works together!
 - 💞️ I’m looking to collaborate on _
 - 📫 How to reach me via @
