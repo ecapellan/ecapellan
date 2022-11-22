@@ -2,7 +2,9 @@
 - 👀 I’m interested in Functional Programming and Big Data
 - 🌱 I’m currently learning Scala & Python works together!
 - 💞️ I’m looking to collaborate on _
-- 📫 How to reach me via @
+- 📐 MA @ Architecture & Planning industry
+
+Mixing interdisciplinary fields it is something that float my boat!
 
 <!---
 ecapellan/ecapellan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
