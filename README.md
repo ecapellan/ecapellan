@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ecapellan
 - 👀 I’m interested in Functional Programming and Big Data
 - 🌱 I’m currently learning Scala & Python works together!
-- 💞️ I’m looking to collaborate on _
 - 📐 MA @ Architecture & Planning industry
 
 Mixing interdisciplinary fields it is something that float my boat!
